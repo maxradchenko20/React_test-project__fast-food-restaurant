@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from "../Header/Header";
-import Order from "../Order/order";
+import Order from "../Order/Order";
 import MenuAdmin from "../MenuAdmin/MenuAdmin";
 
 
@@ -9,7 +9,7 @@ class App extends React.Component {
     return (
       <div className="burger-paradise">
         <div className="menu">
-          <Header/>
+          <Header title="Very Hot Burger"/>
         </div>
         <Order/>
         <MenuAdmin/>
