@@ -1,19 +1,19 @@
 // Наши рестораны
 const restaurants = [
   {
-    title: 'Hot Burger Тверская',
-    url: 'hot-burger-tverskaya',
+    title: 'McDonald\'s',
+    url: 'hot-burger-mcdonalds',
     id: 1
   },
 
   {
-    title: 'Hot Burger Маросейка',
-    url: 'hot-burger-maroseyka',
+    title: 'KFC',
+    url: 'hot-burger-kfc',
     id: 2
   },
   {
-    title: 'Hot Burger Петровка',
-    url: 'hot-burger-petrovka',
+    title: 'Burger King',
+    url: 'hot-burger-burger-king',
     id: 3
   }
 ];
